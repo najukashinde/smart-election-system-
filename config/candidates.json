@@ -1,0 +1,8 @@
+{
+  "candidates": [
+    { "key": "1", "name": "Candidate A", "party": "PARTY_A" },
+    { "key": "2", "name": "Candidate B", "party": "PARTY_B" },
+    { "key": "3", "name": "Candidate C", "party": "PARTY_C" },
+    { "key": "4", "name": "None of the Above", "party": "NOTA" }
+  ]
+}
